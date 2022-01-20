@@ -1,3 +1,3 @@
 # Python-Pandas-Excercise
 Resources from https://github.com/guipsamora/pandas_exercises
-Completed Excercise
+Covers filtering&sorting, grouping, apply, merge, Stats, Visualization, Time series, indexing ...
